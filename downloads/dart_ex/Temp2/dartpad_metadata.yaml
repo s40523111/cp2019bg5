@@ -6,4 +6,4 @@ mode: html
 files:
   - name: Temp2.dart
   - name: index.html
-  - name: style.css
+  - name: style1.css

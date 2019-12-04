@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://s40523111.github.io/cp2019bg5/blog/</loc>
-<lastmod>2019-12-03T00:21:09-00:00</lastmod>
+<lastmod>2019-12-04T16:37:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40523111.github.io/cp2019bg5/blog/archives.html</loc>
-<lastmod>2019-12-03T00:21:09-00:00</lastmod>
+<lastmod>2019-12-04T16:37:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40523111.github.io/cp2019bg5/blog/tags.html</loc>
-<lastmod>2019-12-03T00:21:09-00:00</lastmod>
+<lastmod>2019-12-04T16:37:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40523111.github.io/cp2019bg5/blog/categories.html</loc>
-<lastmod>2019-12-03T00:21:09-00:00</lastmod>
+<lastmod>2019-12-04T16:37:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://s40523111.github.io/cp2019bg5/blog/pages/about/</loc>
-<lastmod>2019-11-14T14:12:07+08:00</lastmod>
+<lastmod>2019-11-28T21:12:14+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://s40523111.github.io/cp2019bg5/blog/w12-2.html</loc>
+<lastmod>2019-12-04T23:59:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -54,7 +61,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://s40523111.github.io/cp2019bg5/blog/category/misc.html</loc>
-<lastmod>2019-12-02T11:53:00+08:06</lastmod>
+<lastmod>2019-12-04T23:59:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://s40523111.github.io/cp2019bg5/blog/tag/w12-2.html</loc>
+<lastmod>2019-12-04T23:59:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -76,6 +90,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://s40523111.github.io/cp2019bg5/blog/author/40523111.html</loc>
 <lastmod>2019-12-02T11:53:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://s40523111.github.io/cp2019bg5/blog/author/40823210.html</loc>
+<lastmod>2019-12-04T23:59:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
